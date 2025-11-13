@@ -10,7 +10,11 @@ A comprehensive, detailed learning roadmap for mastering text AI generation from
 
 ---
 
-## 🎯 Complete Learning Roadmap
+<div align="center">
+
+### 🎯 Complete Learning Roadmap
+
+</div>
 
 ### 1. Programming Skills 💻
 
@@ -652,7 +656,11 @@ Master the specialized techniques for processing and generating human language.
 
 ---
 
-## 🚀 Getting Started Guide
+<div align="center">
+
+### 🚀 Getting Started Guide
+
+</div>
 
 ### Prerequisites
 - Basic computer literacy
@@ -696,7 +704,11 @@ Master the specialized techniques for processing and generating human language.
 
 ---
 
-## 🎓 Key Focus Areas for Text AI Generation
+<div align="center">
+
+### 🎓 Key Focus Areas for Text AI Generation
+
+</div>
 
 ### Core Technologies
 - **Transformer Architecture**: Self-attention, multi-head attention, positional encoding
@@ -728,7 +740,11 @@ Master the specialized techniques for processing and generating human language.
 
 ---
 
-## 🛠️ Essential Tools & Frameworks
+<div align="center">
+
+### 🛠️ Essential Tools & Frameworks
+
+</div>
 
 ### Programming Languages
 - **Python 3.8+**: Primary language for AI/ML
@@ -781,7 +797,11 @@ Master the specialized techniques for processing and generating human language.
 
 ---
 
-## 📚 Learning Resources
+<div align="center">
+
+### 📚 Learning Resources
+
+</div>
 
 ### Online Courses
 - Fast.ai - Practical Deep Learning
@@ -809,7 +829,11 @@ Master the specialized techniques for processing and generating human language.
 
 ---
 
-## 🎯 Project Milestones
+<div align="center">
+
+### 🎯 Project Milestones
+
+</div>
 
 ### Beginner Projects
 1. Text classifier (spam detection)
@@ -831,7 +855,8 @@ Master the specialized techniques for processing and generating human language.
 
 ---
 <div align="center">
-<h3>💡 Success Tips<h3>
+
+### 💡 Success Tips
 
 ✅ **Master the fundamentals** before moving to advanced topics
 
@@ -858,7 +883,9 @@ Master the specialized techniques for processing and generating human language.
 <hr>
 
 <div align="center">
-<h3>📈 Progress Tracking </h3>
+
+### 📈 Progress Tracking
+
 </div>
 
 Use this roadmap to track your progress:
