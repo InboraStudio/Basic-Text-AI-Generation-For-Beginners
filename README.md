@@ -830,23 +830,36 @@ Master the specialized techniques for processing and generating human language.
 12. Multi-lingual text generator
 
 ---
-
-## 💡 Success Tips
+<div align="center">
+<h3>💡 Success Tips<h3>
 
 ✅ **Master the fundamentals** before moving to advanced topics
+
 ✅ **Code every day** - consistency is key
+
 ✅ **Build projects** to apply your learning
+
 ✅ **Read research papers** to stay updated
+
 ✅ **Participate in competitions** (Kaggle, Hugging Face)
+
 ✅ **Contribute to open-source** projects
+
 ✅ **Network with practitioners** in the field
+
 ✅ **Document your learning** journey
+
 ✅ **Focus on understanding**, not just implementation
+
 ✅ **Iterate and improve** your projects
 
----
+</div>
 
-## 📈 Progress Tracking
+<hr>
+
+<div align="center">
+<h3>📈 Progress Tracking </h3>
+</div>
 
 Use this roadmap to track your progress:
 - [ ] Complete Level 1 across all domains
@@ -860,8 +873,7 @@ Use this roadmap to track your progress:
 - [ ] Contribute to open-source NLP projects
 - [ ] Deploy a production text generation system
 
----
-
+<hr>
 
 > [!NOTE]
 > This roadmap is designed for progressive learning. Master each level's topics before moving to the next. The journey to becoming proficient in text AI generation requires dedication, practice, and continuous learning. Focus on understanding the underlying concepts rather than just memorizing implementations. Good luck on your learning journey! 🚀
