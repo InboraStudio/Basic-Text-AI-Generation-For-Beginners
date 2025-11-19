@@ -21,7 +21,7 @@ A comprehensive, detailed learning roadmap for mastering text AI generation from
 Master the foundational programming concepts essential for implementing AI systems.
 
 #### **Level 1**
-- **Data Structures**
+- **[Data Structures](Data%20Structures/readme.md)**
     - Arrays and dynamic arrays
     - Linked lists (single, double, circular)
     - Stacks and queues
