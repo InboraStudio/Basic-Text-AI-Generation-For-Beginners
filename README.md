@@ -822,10 +822,10 @@ Master the specialized techniques for processing and generating human language.
 - "T5: Exploring the Limits of Transfer Learning"
 
 ### Communities
-- Hugging Face Forums
-- r/MachineLearning
+- [Hugging Face Forums](https://discuss.huggingface.co/)
+- [r/MachineLearning](https://www.reddit.com/r/MachineLearning/)
 - Papers With Code
-- AI Alignment Forum
+- [AI Alignment Forum](https://www.alignmentforum.org/)
 
 ---
 
